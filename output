@@ -1,0 +1,328 @@
+NUM_THREAD:1
+num_record:503316480
+Block_size:64
+SeqWrite+block_size64+num_thread1:data_size:30720                MB
+SeqWrite+block_size64+num_thread1:cost:61319                ms
+SeqWrite+block_size64+num_thread1 throughputs:500.986644
+num_record:251658240
+Block_size:128
+SeqWrite+block_size128+num_thread1:data_size:30720                MB
+SeqWrite+block_size128+num_thread1:cost:29117                ms
+SeqWrite+block_size128+num_thread1 throughputs:1055.053749
+num_record:125829120
+Block_size:256
+SeqWrite+block_size256+num_thread1:data_size:30720                MB
+SeqWrite+block_size256+num_thread1:cost:13772                ms
+SeqWrite+block_size256+num_thread1 throughputs:2230.612838
+num_record:62914560
+Block_size:512
+SeqWrite+block_size512+num_thread1:data_size:30720                MB
+SeqWrite+block_size512+num_thread1:cost:7834                 ms
+SeqWrite+block_size512+num_thread1 throughputs:3921.368394
+num_record:31457280
+Block_size:1024
+SeqWrite+block_size1024+num_thread1:data_size:30720                MB
+SeqWrite+block_size1024+num_thread1:cost:24735                ms
+SeqWrite+block_size1024+num_thread1 throughputs:1241.964827
+num_record:15728640
+Block_size:2048
+SeqWrite+block_size2048+num_thread1:data_size:30720                MB
+SeqWrite+block_size2048+num_thread1:cost:23107                ms
+SeqWrite+block_size2048+num_thread1 throughputs:1329.467261
+num_record:7864320
+Block_size:4096
+SeqWrite+block_size4096+num_thread1:data_size:30720                MB
+SeqWrite+block_size4096+num_thread1:cost:13747                ms
+SeqWrite+block_size4096+num_thread1 throughputs:2234.669382
+num_record:3932160
+Block_size:8192
+SeqWrite+block_size8192+num_thread1:data_size:30720                MB
+SeqWrite+block_size8192+num_thread1:cost:11541                ms
+SeqWrite+block_size8192+num_thread1 throughputs:2661.814401
+NUM_THREAD:2
+num_record:503316480
+Block_size:64
+SeqWrite+block_size64+num_thread2:data_size:30720                MB
+SeqWrite+block_size64+num_thread2:cost:31923                ms
+SeqWrite+block_size64+num_thread2 throughputs:962.315572
+num_record:251658240
+Block_size:128
+SeqWrite+block_size128+num_thread2:data_size:30720                MB
+SeqWrite+block_size128+num_thread2:cost:15452                ms
+SeqWrite+block_size128+num_thread2 throughputs:1988.092156
+num_record:125829120
+Block_size:256
+SeqWrite+block_size256+num_thread2:data_size:30720                MB
+SeqWrite+block_size256+num_thread2:cost:7815                 ms
+SeqWrite+block_size256+num_thread2 throughputs:3930.902111
+num_record:62914560
+Block_size:512
+SeqWrite+block_size512+num_thread2:data_size:30720                MB
+SeqWrite+block_size512+num_thread2:cost:7777                 ms
+SeqWrite+block_size512+num_thread2 throughputs:3950.109297
+num_record:31457280
+Block_size:1024
+SeqWrite+block_size1024+num_thread2:data_size:30720                MB
+SeqWrite+block_size1024+num_thread2:cost:13350                ms
+SeqWrite+block_size1024+num_thread2 throughputs:2301.123596
+num_record:15728640
+Block_size:2048
+SeqWrite+block_size2048+num_thread2:data_size:30720                MB
+SeqWrite+block_size2048+num_thread2:cost:12843                ms
+SeqWrite+block_size2048+num_thread2 throughputs:2391.964494
+num_record:7864320
+Block_size:4096
+SeqWrite+block_size4096+num_thread2:data_size:30720                MB
+SeqWrite+block_size4096+num_thread2:cost:9687                 ms
+SeqWrite+block_size4096+num_thread2 throughputs:3171.260452
+num_record:3932160
+Block_size:8192
+SeqWrite+block_size8192+num_thread2:data_size:30720                MB
+SeqWrite+block_size8192+num_thread2:cost:8924                 ms
+SeqWrite+block_size8192+num_thread2 throughputs:3442.402510
+NUM_THREAD:4
+num_record:503316480
+Block_size:64
+SeqWrite+block_size64+num_thread4:data_size:30720                MB
+SeqWrite+block_size64+num_thread4:cost:18985                ms
+SeqWrite+block_size64+num_thread4 throughputs:1618.119568
+num_record:251658240
+Block_size:128
+SeqWrite+block_size128+num_thread4:data_size:30720                MB
+SeqWrite+block_size128+num_thread4:cost:10520                ms
+SeqWrite+block_size128+num_thread4 throughputs:2920.152091
+num_record:125829120
+Block_size:256
+SeqWrite+block_size256+num_thread4:data_size:30720                MB
+SeqWrite+block_size256+num_thread4:cost:7854                 ms
+SeqWrite+block_size256+num_thread4 throughputs:3911.382735
+num_record:62914560
+Block_size:512
+SeqWrite+block_size512+num_thread4:data_size:30720                MB
+SeqWrite+block_size512+num_thread4:cost:7867                 ms
+SeqWrite+block_size512+num_thread4 throughputs:3904.919283
+num_record:31457280
+Block_size:1024
+SeqWrite+block_size1024+num_thread4:data_size:30720                MB
+SeqWrite+block_size1024+num_thread4:cost:8678                 ms
+SeqWrite+block_size1024+num_thread4 throughputs:3539.986172
+num_record:15728640
+Block_size:2048
+SeqWrite+block_size2048+num_thread4:data_size:30720                MB
+SeqWrite+block_size2048+num_thread4:cost:8430                 ms
+SeqWrite+block_size2048+num_thread4 throughputs:3644.128114
+num_record:7864320
+Block_size:4096
+SeqWrite+block_size4096+num_thread4:data_size:30720                MB
+SeqWrite+block_size4096+num_thread4:cost:8273                 ms
+SeqWrite+block_size4096+num_thread4 throughputs:3713.284177
+num_record:3932160
+Block_size:8192
+SeqWrite+block_size8192+num_thread4:data_size:30720                MB
+SeqWrite+block_size8192+num_thread4:cost:8243                 ms
+SeqWrite+block_size8192+num_thread4 throughputs:3726.798496
+NUM_THREAD:8
+num_record:503316480
+Block_size:64
+SeqWrite+block_size64+num_thread8:data_size:30720                MB
+SeqWrite+block_size64+num_thread8:cost:15265                ms
+SeqWrite+block_size64+num_thread8 throughputs:2012.446774
+num_record:251658240
+Block_size:128
+SeqWrite+block_size128+num_thread8:data_size:30720                MB
+SeqWrite+block_size128+num_thread8:cost:10443                ms
+SeqWrite+block_size128+num_thread8 throughputs:2941.683424
+num_record:125829120
+Block_size:256
+SeqWrite+block_size256+num_thread8:data_size:30720                MB
+SeqWrite+block_size256+num_thread8:cost:8000                 ms
+SeqWrite+block_size256+num_thread8 throughputs:3840.000000
+num_record:62914560
+Block_size:512
+SeqWrite+block_size512+num_thread8:data_size:30720                MB
+SeqWrite+block_size512+num_thread8:cost:8100                 ms
+SeqWrite+block_size512+num_thread8 throughputs:3792.592593
+num_record:31457280
+Block_size:1024
+SeqWrite+block_size1024+num_thread8:data_size:30720                MB
+SeqWrite+block_size1024+num_thread8:cost:8432                 ms
+SeqWrite+block_size1024+num_thread8 throughputs:3643.263757
+num_record:15728640
+Block_size:2048
+SeqWrite+block_size2048+num_thread8:data_size:30720                MB
+SeqWrite+block_size2048+num_thread8:cost:8809                 ms
+SeqWrite+block_size2048+num_thread8 throughputs:3487.342491
+num_record:7864320
+Block_size:4096
+SeqWrite+block_size4096+num_thread8:data_size:30720                MB
+SeqWrite+block_size4096+num_thread8:cost:9666                 ms
+SeqWrite+block_size4096+num_thread8 throughputs:3178.150217
+num_record:3932160
+Block_size:8192
+SeqWrite+block_size8192+num_thread8:data_size:30720                MB
+SeqWrite+block_size8192+num_thread8:cost:10371                ms
+SeqWrite+block_size8192+num_thread8 throughputs:2962.105872
+NUM_THREAD:16
+num_record:503316480
+Block_size:64
+SeqWrite+block_size64+num_thread16:data_size:30720                MB
+SeqWrite+block_size64+num_thread16:cost:18514                ms
+SeqWrite+block_size64+num_thread16 throughputs:1659.284866
+num_record:251658240
+Block_size:128
+SeqWrite+block_size128+num_thread16:data_size:30720                MB
+SeqWrite+block_size128+num_thread16:cost:12018                ms
+SeqWrite+block_size128+num_thread16 throughputs:2556.165751
+num_record:125829120
+Block_size:256
+SeqWrite+block_size256+num_thread16:data_size:30720                MB
+SeqWrite+block_size256+num_thread16:cost:8127                 ms
+SeqWrite+block_size256+num_thread16 throughputs:3779.992617
+num_record:62914560
+Block_size:512
+SeqWrite+block_size512+num_thread16:data_size:30720                MB
+SeqWrite+block_size512+num_thread16:cost:10501                ms
+SeqWrite+block_size512+num_thread16 throughputs:2925.435673
+num_record:31457280
+Block_size:1024
+SeqWrite+block_size1024+num_thread16:data_size:30720                MB
+SeqWrite+block_size1024+num_thread16:cost:12641                ms
+SeqWrite+block_size1024+num_thread16 throughputs:2430.187485
+num_record:15728640
+Block_size:2048
+SeqWrite+block_size2048+num_thread16:data_size:30720                MB
+SeqWrite+block_size2048+num_thread16:cost:14667                ms
+SeqWrite+block_size2048+num_thread16 throughputs:2094.497852
+num_record:7864320
+Block_size:4096
+SeqWrite+block_size4096+num_thread16:data_size:30720                MB
+SeqWrite+block_size4096+num_thread16:cost:15689                ms
+SeqWrite+block_size4096+num_thread16 throughputs:1958.059787
+num_record:3932160
+Block_size:8192
+SeqWrite+block_size8192+num_thread16:data_size:30720                MB
+SeqWrite+block_size8192+num_thread16:cost:16203                ms
+SeqWrite+block_size8192+num_thread16 throughputs:1895.945195
+NUM_THREAD:32
+num_record:503316480
+Block_size:64
+SeqWrite+block_size64+num_thread32:data_size:30720                MB
+SeqWrite+block_size64+num_thread32:cost:25979                ms
+SeqWrite+block_size64+num_thread32 throughputs:1182.493552
+num_record:251658240
+Block_size:128
+SeqWrite+block_size128+num_thread32:data_size:30720                MB
+SeqWrite+block_size128+num_thread32:cost:14110                ms
+SeqWrite+block_size128+num_thread32 throughputs:2177.179305
+num_record:125829120
+Block_size:256
+SeqWrite+block_size256+num_thread32:data_size:30720                MB
+SeqWrite+block_size256+num_thread32:cost:9852                 ms
+SeqWrite+block_size256+num_thread32 throughputs:3118.148599
+num_record:62914560
+Block_size:512
+SeqWrite+block_size512+num_thread32:data_size:30720                MB
+SeqWrite+block_size512+num_thread32:cost:14028                ms
+SeqWrite+block_size512+num_thread32 throughputs:2189.905902
+num_record:31457280
+Block_size:1024
+SeqWrite+block_size1024+num_thread32:data_size:30720                MB
+SeqWrite+block_size1024+num_thread32:cost:17267                ms
+SeqWrite+block_size1024+num_thread32 throughputs:1779.116233
+num_record:15728640
+Block_size:2048
+SeqWrite+block_size2048+num_thread32:data_size:30720                MB
+SeqWrite+block_size2048+num_thread32:cost:18697                ms
+SeqWrite+block_size2048+num_thread32 throughputs:1643.044339
+num_record:7864320
+Block_size:4096
+SeqWrite+block_size4096+num_thread32:data_size:30720                MB
+SeqWrite+block_size4096+num_thread32:cost:19466                ms
+SeqWrite+block_size4096+num_thread32 throughputs:1578.136238
+num_record:3932160
+Block_size:8192
+SeqWrite+block_size8192+num_thread32:data_size:30720                MB
+SeqWrite+block_size8192+num_thread32:cost:19891                ms
+SeqWrite+block_size8192+num_thread32 throughputs:1544.417073
+NUM_THREAD:1
+num_record:503316480
+Block_size:64
+RndWrite+block_size64+num_thread1:data_size:30720                MB
+RndWrite+block_size64+num_thread1:cost:179412               ms
+RndWrite+block_size64+num_thread1 throughputs:171.226005
+num_record:251658240
+Block_size:128
+RndWrite+block_size128+num_thread1:data_size:30720                MB
+RndWrite+block_size128+num_thread1:cost:90649                ms
+RndWrite+block_size128+num_thread1 throughputs:338.889563
+num_record:125829120
+Block_size:256
+RndWrite+block_size256+num_thread1:data_size:30720                MB
+RndWrite+block_size256+num_thread1:cost:16743                ms
+RndWrite+block_size256+num_thread1 throughputs:1834.796631
+num_record:62914560
+Block_size:512
+RndWrite+block_size512+num_thread1:data_size:30720                MB
+RndWrite+block_size512+num_thread1:cost:9118                 ms
+RndWrite+block_size512+num_thread1 throughputs:3369.159903
+num_record:31457280
+Block_size:1024
+RndWrite+block_size1024+num_thread1:data_size:30720                MB
+RndWrite+block_size1024+num_thread1:cost:25543                ms
+RndWrite+block_size1024+num_thread1 throughputs:1202.677837
+num_record:15728640
+Block_size:2048
+RndWrite+block_size2048+num_thread1:data_size:30720                MB
+RndWrite+block_size2048+num_thread1:cost:24496                ms
+RndWrite+block_size2048+num_thread1 throughputs:1254.082299
+num_record:7864320
+Block_size:4096
+RndWrite+block_size4096+num_thread1:data_size:30720                MB
+RndWrite+block_size4096+num_thread1:cost:15389                ms
+RndWrite+block_size4096+num_thread1 throughputs:1996.231074
+num_record:3932160
+Block_size:8192
+RndWrite+block_size8192+num_thread1:data_size:30720                MB
+RndWrite+block_size8192+num_thread1:cost:11475                ms
+RndWrite+block_size8192+num_thread1 throughputs:2677.124183
+NUM_THREAD:2
+num_record:503316480
+Block_size:64
+RndWrite+block_size64+num_thread2:data_size:30720                MB
+RndWrite+block_size64+num_thread2:cost:202360               ms
+RndWrite+block_size64+num_thread2 throughputs:151.808658
+num_record:251658240
+Block_size:128
+RndWrite+block_size128+num_thread2:data_size:30720                MB
+RndWrite+block_size128+num_thread2:cost:109491               ms
+RndWrite+block_size128+num_thread2 throughputs:280.571006
+num_record:125829120
+Block_size:256
+RndWrite+block_size256+num_thread2:data_size:30720                MB
+RndWrite+block_size256+num_thread2:cost:47471                ms
+RndWrite+block_size256+num_thread2 throughputs:647.131933
+num_record:62914560
+Block_size:512
+RndWrite+block_size512+num_thread2:data_size:30720                MB
+RndWrite+block_size512+num_thread2:cost:22778                ms
+RndWrite+block_size512+num_thread2 throughputs:1348.669769
+num_record:31457280
+Block_size:1024
+RndWrite+block_size1024+num_thread2:data_size:30720                MB
+RndWrite+block_size1024+num_thread2:cost:17171                ms
+RndWrite+block_size1024+num_thread2 throughputs:1789.062955
+num_record:15728640
+Block_size:2048
+RndWrite+block_size2048+num_thread2:data_size:30720                MB
+RndWrite+block_size2048+num_thread2:cost:15036                ms
+RndWrite+block_size2048+num_thread2 throughputs:2043.096568
+num_record:7864320
+Block_size:4096
+RndWrite+block_size4096+num_thread2:data_size:30720                MB
+RndWrite+block_size4096+num_thread2:cost:11177                ms
+RndWrite+block_size4096+num_thread2 throughputs:2748.501387
+num_record:3932160
+Block_size:8192
+RndWrite+block_size8192+num_thread2:data_size:30720                MB
+RndWrite+block_size8192+num_thread2:cost:8477                 ms
+RndWrite+block_size8192+num_thread2 throughputs:3623.923558

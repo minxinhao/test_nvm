@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "search.h": "c",
+        "stdio.h": "c",
+        "stdint.h": "c",
+        "algorithm": "c",
+        "__locale": "c",
+        "ios": "c",
+        "chrono": "c",
+        "__nullptr": "c"
+    }
+}
